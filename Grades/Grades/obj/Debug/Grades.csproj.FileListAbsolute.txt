@@ -5,3 +5,10 @@ c:\users\betsyskinner\documents\visual studio 2017\Projects\Grades\Grades\obj\De
 c:\users\betsyskinner\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
 c:\users\betsyskinner\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.exe
 c:\users\betsyskinner\documents\visual studio 2017\Projects\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\Grades.exe
