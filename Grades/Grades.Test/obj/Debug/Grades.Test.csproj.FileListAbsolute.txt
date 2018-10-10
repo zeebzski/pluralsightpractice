@@ -1,0 +1,17 @@
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Grades.Test.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Grades.Test.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\obj\Debug\Grades.Test.csprojAssemblyReference.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\obj\Debug\Grades.Test.csproj.CoreCompileInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\obj\Debug\Grades.Test.csproj.CopyComplete
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\obj\Debug\Grades.Test.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\obj\Debug\Grades.Test.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Grades.exe
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Grades.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Test\bin\Debug\Grades.exe.config

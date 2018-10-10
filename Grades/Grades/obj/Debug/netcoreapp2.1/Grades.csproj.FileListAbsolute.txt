@@ -1,0 +1,4 @@
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\netcoreapp2.1\Grades.csprojAssemblyReference.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\netcoreapp2.1\Grades.csproj.CoreCompileInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfoInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades\obj\Debug\netcoreapp2.1\Grades.AssemblyInfo.cs

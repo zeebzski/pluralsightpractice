@@ -1,0 +1,11 @@
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.csprojAssemblyReference.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.csproj.CoreCompileInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.AssemblyInfoInputs.cache
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.AssemblyInfo.cs
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\bin\Debug\netcoreapp2.1\Grades.Core.deps.json
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\bin\Debug\netcoreapp2.1\Grades.Core.runtimeconfig.json
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\bin\Debug\netcoreapp2.1\Grades.Core.runtimeconfig.dev.json
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\bin\Debug\netcoreapp2.1\Grades.Core.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\bin\Debug\netcoreapp2.1\Grades.Core.pdb
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.dll
+C:\Users\BetsySkinner\Documents\GitHub\pluralsightpractice\Grades\Grades.Core\obj\Debug\netcoreapp2.1\Grades.Core.pdb
